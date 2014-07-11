@@ -1,0 +1,11 @@
+{
+  "name": "mocha-tap-reporter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "tap.js",
+  "dependencies": {
+    "mocha-reporter-base": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
